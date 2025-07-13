@@ -2,7 +2,9 @@
 This system punishes users for spamming. After 4 messages in 5 seconds, they receive a warn. After 3 warns, they'll be muted and their warns will be reset.
 
 ### Implementation
-You must copy-paste JSONs in the following order. **Otherwise it won't work!**
+Firstly, create and configure a role called "muted".
+
+Secondly, you must copy-paste JSONs in the following order. **Otherwise it won't work!**
 
 1. (all your commands and other stuff)
 2. ++reset.json
