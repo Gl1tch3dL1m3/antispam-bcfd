@@ -13,6 +13,7 @@ You must copy-paste JSONs in the following order. **Otherwise it won't work!**
 These JSONs must be at the bottom. Otherwise your commands might not work.
 
 The `++reset` command syntax:
+
 ++reset \[user tag\]
 
 It just resets the user's warnings.
